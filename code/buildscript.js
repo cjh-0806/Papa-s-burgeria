@@ -226,6 +226,7 @@ eggs.onmousedown = function(e){
         ev.preventDefault();
     };
 }
+
 var bbqs = document.querySelector("#bbqs");
 var bbqss = document.querySelector("#bbqss");
 var bbq = document.querySelector("#bbq");
@@ -295,6 +296,7 @@ bbqs.onmousedown = function(e){
         ev.preventDefault();
     };
 }
+
 var burgerbtm = document.querySelector("#burgerbtm");
 var burgerbtms = document.querySelector("#burgerbtms");
 burgerbtm.onmousedown = function(e){
@@ -348,6 +350,7 @@ burgerbtm.onmousedown = function(e){
         ev.preventDefault();
     };
 }
+
 var cheese = document.querySelector("#cheese");
 var cheeses = document.querySelector("#cheeses");
 cheese.onmousedown = function(e){
@@ -399,6 +402,7 @@ cheese.onmousedown = function(e){
         ev.preventDefault();
     };
 }
+
 var cucumber = document.querySelector("#cucumber");
 var cucumbers = document.querySelector("#cucumbers");
 cucumber.onmousedown = function(e){
@@ -450,6 +454,7 @@ cucumber.onmousedown = function(e){
         ev.preventDefault();
     };
 }
+
 var onion = document.querySelector("#onion");
 var onions = document.querySelector("#onions");
 onion.onmousedown = function(e){
@@ -501,6 +506,7 @@ onion.onmousedown = function(e){
         ev.preventDefault();
     };
 }
+
 var veg = document.querySelector("#veg");
 var vegs = document.querySelector("#vegs");
 veg.onmousedown = function(e){
@@ -552,6 +558,7 @@ veg.onmousedown = function(e){
         ev.preventDefault();
     };
 }
+
 var tomato = document.querySelector("#tomato");
 var tomatos = document.querySelector("#tomatos");
 tomato.onmousedown = function(e){
@@ -603,7 +610,7 @@ tomato.onmousedown = function(e){
         ev.preventDefault();
     };
 }
-/*HERE */
+
 var meatfired = document.querySelector("#meatfired");
 var meatfireds = document.querySelector("#meatfireds");
 meatfired.onmousedown = function(e){
@@ -691,6 +698,7 @@ meatfired.onmousedown = function(e){
         };
     }
 }
+
 var burgertop = document.querySelector("#burgertop");
 var burgertops = document.querySelector("#burgertops");
 var plate = document.querySelector("#plate");
